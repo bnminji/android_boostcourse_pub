@@ -1,6 +1,10 @@
-# android_boostcourse_pub
-[1. 레이아웃 만들기](https://www.notion.so/1-ca10a8fa84734443b9d05aeff9b139e6)
+##부스트코스 안드로이드 앱 프로그래밍
 
-[](https://www.notion.so/c1c6dd065b324b508727863d76abb4e0)
+https://www.boostcourse.org/mo316/joinLectures/13164
 
-[](https://www.notion.so/ee2e8a6df9be403280ac244fb48b54b0)
+##부스트코스 홍보대사 BOOSTER2기 활동 - 기술 블로그 작성글
+
+https://blog.naver.com/bmj0178/221864289337
+
+##
+
